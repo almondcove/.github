@@ -2,5 +2,5 @@
 
 
 
-🙋‍♀️ The coffeeroom readme <b>init</>
+🙋‍♀️ The coffeeroom readme <b>init</b>
 
